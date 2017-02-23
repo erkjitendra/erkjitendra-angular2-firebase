@@ -1,0 +1,26 @@
+[
+	{
+	"category":"IT",
+	"city":"Jaipur",
+	"company":"PNSJ.pvt.ltd",
+	"description":"lets come with us",
+	"email":"pnsj@pn.com",
+	"phone":"9929003090",
+	"state":"Rajasthan",
+	"street_address":"204 vki",
+	"years_in_business":"40",
+	"zipcode":"302013"
+	},
+	{
+	"category":"CSE",
+	"city":"noide",
+	"company":"rja.pvt.ltd",
+	"description":"its codding time",
+	"email":"rhs@rja.com",
+	"phone":"5268569256",
+	"state":"UP",
+	"street_address":"D-8 sec",
+	"years_in_business":"10",
+	"zipcode":"526220"
+	}
+]
